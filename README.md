@@ -130,7 +130,7 @@ where <br/>
 `objval` is the best found solution objective value. <br/>
 `timeinc` time taken to reach the incumbent. <br/>
 `paths` salespersons' paths (indexed from 0). <br/>
-`convergence` salespersons' paths (indexed from 0). <br/>
+`convergence` convergence of solution reported by Gurobi, list of pairs $(time, objval)$. <br/>
 `IGNORED_PARAMETERS` shows the input parameters that were not used (if exist). <br/>
 
 ## Example of input 2
