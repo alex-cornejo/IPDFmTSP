@@ -1,0 +1,41 @@
+{
+    "INPUT": {
+        "IP": "karabulut",
+        "outputFile": "output.txt",
+        "instance": "TSPLIB/burma14.tsp",
+        "m": 2,
+        "L": 2,
+        "U": 7,
+        "objective": "minsum",
+        "variant": "CP",
+        "MemLimit": 12,
+        "TimeLimit": 60,
+        "presolve": 2,
+        "MIPGap": 0,
+        "outputFlag": 1,
+        "default": [
+            "variant"
+        ]
+    },
+    "IGNORED_PARAMETERS": {
+        "variant": "OP",
+        "IQP": true
+    },
+    "OUTPUT": {
+        "objval": "3414.0",
+        "runtime": 15.598864793777466,
+        "gap": "0.0",
+        "timeinc": "0.8360719680786133",
+        "paths": [
+            [0, 7, 12, 10, 8, 9, 1],
+            [2, 3, 4, 5, 11, 6, 13]
+        ],
+        "convergence": [
+            [0.4253249168395996, 3901.0],
+            [0.43735194206237793, 3705.0],
+            [0.47217893600463867, 3552.0],
+            [0.5277419090270996, 3522.0],
+            [0.8360719680786133, 3414.0]
+        ]
+    }
+}

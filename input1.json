@@ -1,0 +1,17 @@
+{
+  "IP": "IP1",
+  "instance": "TSPLIB/burma14.tsp",
+  "m": 3,
+  "L": 2,
+  "U": 5,
+  "objective": "minsum",
+  "variant": "OP",
+  "R": [],
+  "IQP": true,
+  "outputFile": "output1.json",
+  "MemLimit": 12,
+  "TimeLimit": 60,
+  "presolve": -1,
+  "MIPGap": 0,
+  "outputFlag": 1
+}
