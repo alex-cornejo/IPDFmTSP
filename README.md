@@ -5,16 +5,17 @@
 ## Citing
 ### BibTex
 ```
-@article{Cornejo-Acosta2023,
-author = {Cornejo-Acosta, Jos\'{e} Alejandro and Garc\'{\i}a-D\'{\i}az, Jes\'{u}s and P\'{e}rez-Sansalvador, Julio C\'{e}sar and Carlos Segura},
-title = {Compact Integer Programs for Depot-Free Multiple Traveling Salesperson Problems},
-year = {2023},
-publisher = {MDPI},
-issn = {2227-7390},
-url = {},
-doi = {},
-journal = {Mathematics},
-month = {july}
+@Article{Cornejo-Acosta2023,
+AUTHOR = {Cornejo-Acosta, José Alejandro and García-Díaz, Jesús and Pérez-Sansalvador, Julio César and Segura, Carlos},
+TITLE = {Compact Integer Programs for Depot-Free Multiple Traveling Salesperson Problems},
+JOURNAL = {Mathematics},
+VOLUME = {11},
+YEAR = {2023},
+NUMBER = {13},
+ARTICLE-NUMBER = {3014},
+URL = {https://www.mdpi.com/2227-7390/11/13/3014},
+ISSN = {2227-7390},
+DOI = {10.3390/math11133014}
 }
 ```
 
